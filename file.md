@@ -1,1 +1,3 @@
 # osnovnye komandy
+
+git commit 
